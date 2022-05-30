@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tolakshi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lakshika Dunuhappawa. I am a C# .Net Software Engineer.
+- 👀 I’m interested in gaining skills and experience in web application development using JavaScript tech stack.
+- 🌱 I’m currently learning React.JS and .NET core.
+- 💞️ I’m looking to collaborate on web application development projects.
+- 📫 How to reach me : LinkedIn/Seek.com
 
 <!---
 tolakshi/tolakshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
