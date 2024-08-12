@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lakshika Dunuhappawa. I am a C# .Net Software Engineer.
+- 👋 Hi, I’m Lakshika Dunuhappawa. I am a Software Engineer.
 - 👀 I’m interested in gaining skills and experience in web application development using JavaScript tech stack.
-- 🌱 I’m currently learning React.JS and .NET core.
+- 🌱 I’m currently learning React.JS.
 - 💞️ I’m looking to collaborate on web application development projects.
 - 📫 How to reach me : LinkedIn/Seek.com
 
